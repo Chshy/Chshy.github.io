@@ -1,2 +1,2 @@
-# Chshy.github.io
+# chshy.github.io
 Personal blog.
